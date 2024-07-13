@@ -14,3 +14,23 @@ Credit card fraud is a significant issue in the financial sector. Detecting frau
 
 # 2. Data Preparation
 We start by preparing the dataset. We'll use Jupyter Notebook to clean and preprocess the data.
+
+## Step 1: Import Libraries and Load Data
+First, import the necessary libraries and load the datasets.
+
+![image](https://github.com/user-attachments/assets/dd8aa74c-7021-43e4-b07a-62a66f660ab2)
+
+## Step 2: Handle Categorical Variables and Balance the Dataset
+We encode the categorical variables and balance the dataset to handle the imbalance between fraudulent and non-fraudulent transactions.
+
+![image](https://github.com/user-attachments/assets/57d472d2-fa79-4223-9a09-7142c477f3fc)
+
+# 3. Model Training
+Next, we train multiple machine learning models and select the best one based on performance.
+
+## Step 1: Train Multiple Models
+We will train various models and evaluate their performance using accuracy and confusion matrix.
+
+![image](https://github.com/user-attachments/assets/0d92b687-f8da-4ef9-bb62-cf29a56cbb49)
+
+![image](https://github.com/user-attachments/assets/fbf32879-7b2d-4c71-9998-ef0529c75fef)
