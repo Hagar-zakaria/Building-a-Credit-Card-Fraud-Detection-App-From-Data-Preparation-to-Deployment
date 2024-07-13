@@ -1,6 +1,9 @@
 # Building-a-Credit-Card-Fraud-Detection-App-From-Data-Preparation-to-Deployment
 In this tutorial, we will walk through the process of creating a credit card fraud detection app using Python, Jupyter Notebook, and Streamlit. We will cover data preparation, model training, and deploying the app. By the end of this tutorial, you will have a fully functional web app that can predict credit card fraud based on transaction details.
 
+![image](https://github.com/user-attachments/assets/c90e8ab6-d680-4b75-8b46-196872f6f471)
+
+
 # Table of Contents
 1. Introduction
 2. Data Preparation
@@ -63,7 +66,7 @@ In the terminal, navigate to the project directory and run the app:
 ![image](https://github.com/user-attachments/assets/24f3e875-6323-4cdc-be68-94ce7a402b9a)
 
 
-# conclusion
+# Conclusion
 
 By following these steps, you have successfully created and deployed a credit card fraud detection app using Python, Jupyter Notebook, and Streamlit. This app can predict fraudulent transactions and visualize fraud data across different categories and locations.
 
