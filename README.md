@@ -44,8 +44,8 @@ We will save the best-performing model for deployment.
 # 4. Building the Streamlit App
 Now, we build the Streamlit app to deploy our model and visualize the data.
 
-## Step 1: Create app.py
-Create a new file named app.py and add the following code:
+## Step 1: Create app.py 
+Create a new file named app.py in Visual studio for example and add the following code:
 
 ![image](https://github.com/user-attachments/assets/ab96891c-9559-409d-8a50-b984ddebf0cc)
 
