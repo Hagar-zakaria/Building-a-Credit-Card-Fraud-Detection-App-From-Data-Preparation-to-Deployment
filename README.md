@@ -33,4 +33,38 @@ We will train various models and evaluate their performance using accuracy and c
 
 ![image](https://github.com/user-attachments/assets/0d92b687-f8da-4ef9-bb62-cf29a56cbb49)
 
-![image](https://github.com/user-attachments/assets/fbf32879-7b2d-4c71-9998-ef0529c75fef)
+## Step 2: Save the Best Model
+We will save the best-performing model for deployment.
+
+![image](https://github.com/user-attachments/assets/5d549889-e737-4d08-b68c-cf33d9619e8c)
+
+# 4. Building the Streamlit App
+Now, we build the Streamlit app to deploy our model and visualize the data.
+
+## Step 1: Create app.py
+Create a new file named app.py and add the following code:
+
+![image](https://github.com/user-attachments/assets/ab96891c-9559-409d-8a50-b984ddebf0cc)
+
+
+## Step 2: Ensure All Required Files Are in Place
+
+Make sure your project directory contains app.py, best_model.pkl, and cleaned_data_with_lat_long.csv.
+
+# 5. Running and Deploying the App
+## Step 1: Install Required Packages
+Open a terminal and navigate to your project directory. Install the required packages:
+
+![image](https://github.com/user-attachments/assets/bef96aa1-f52b-4d2b-b454-91956525ee95)
+
+## Step 2: Run the Streamlit App
+In the terminal, navigate to the project directory and run the app:
+
+![image](https://github.com/user-attachments/assets/24f3e875-6323-4cdc-be68-94ce7a402b9a)
+
+
+# conclusion
+
+By following these steps, you have successfully created and deployed a credit card fraud detection app using Python, Jupyter Notebook, and Streamlit. This app can predict fraudulent transactions and visualize fraud data across different categories and locations.
+
+Feel free to customize and enhance this app further to suit your needs. Happy coding!
